@@ -7,7 +7,7 @@ Let see how accuracy (bad I guess), with limited resources, we can get with self
 ## Dependencies
 * Python 3.x
 * OpenCV 2
-* tensorflow
+* tensorflowasdasdasdadasdadsasd
 * numpyasdad 
 * pandas
 * matplotlib
