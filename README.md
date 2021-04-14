@@ -8,7 +8,7 @@ Let see how accuracy (bad I guess), with limited resources, we can get with self
 * Python 3.x
 * OpenCV 2
 * tensorflow
-* numpy
+* numpyasdad 
 * pandas
 * matplotlib
 * scipy
